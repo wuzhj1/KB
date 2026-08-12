@@ -1,3 +1,10 @@
+---
+来源: https://mysql.net.cn/doc/refman/8.0/en/
+tags:
+  - MySQL/数据类型
+---
+
+
 
 ## 整数类型
 | 类型 | 字节数 | 有符号范围 | 典型用途 |
@@ -27,4 +34,3 @@
 | DATE      | YYYY-MM-DD          | 1000-9999年 | 生日、日期   |
 | DATETIME  | YYYY-MM-DD HH:MM:SS | 1000-9999年 | 业务时间    |
 | TIMESTAMP | 同上                  | 1970-2038年 | 创建/更新时间 |
-还有JSON，
